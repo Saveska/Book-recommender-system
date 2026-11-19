@@ -1,4 +1,4 @@
-# MANU-Internship-Project
+# Book-recommender-system
 
 In the following project, we will look at creating a book recommendation system, where we will cover all the key steps for its creation.
 
